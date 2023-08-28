@@ -89,5 +89,5 @@ on how to run this plugin with hotreload in the studio.
 
 > [itsoftdevsol.com](https://itsoftdevsol.tk) &nbsp;&middot;&nbsp;
 > [wickygenius.com](https://wickygenius.com) &nbsp;&middot;&nbsp;
-> Github [@ndimatteo](https://github.com/mohtasham-kali) &nbsp;&middot;&nbsp;
+> Github [@Linux](https://github.com/mohtasham-kali) &nbsp;&middot;&nbsp;
 > Instagram [@mohtasham](https://instagram.com/mohtasham.siddiqui70?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
